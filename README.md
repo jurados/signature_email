@@ -1,4 +1,4 @@
-# signature_email
+# Signature E-Mail
 
 This code allow you get a e-mail signature based only in html code. If the code is writen in html, you can copy & paste easily for example in you gmail (If you wanna know how it's work continue in this [link](https://www.lokitimestwo.com/adding-custom-html-signature-email-gmail/)).
 
