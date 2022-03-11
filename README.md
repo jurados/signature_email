@@ -4,8 +4,10 @@ This code allow you get a e-mail signature based only in html code. If the code 
 
 One example that shows you how this look is presented to continue
 
-![](test.png)
-
+<p align="center">
+  <img src="https://github.com/waldyr/test.png"/>
+</p>
+  
 The person on the picture doesn't exist. I extracte it from the website: [thispersondoesnotexist](https://thispersondoesnotexist.com/). The person's name I extract it from the website: [name generator](https://www.name-generator.org.uk/male/).
 
 One good website that give you a good list of icons which you can change theirs colors with a hex code is this [icons](https://www.iconsdb.com/). I recommend it. 
